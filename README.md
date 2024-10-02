@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Alvaro 👋</h1>
 </div>
-<img src="https://imgur.com/gGrP998">
+<img src="https://i.imgur.com/gGrP998.png">
 
 
 ## Sobre mi
